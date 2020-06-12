@@ -1,6 +1,1 @@
-# Boosting methods in Machine Learning
-
-## Gradient Boosting
-
-
-## Adaptive boosting or AdaBoost 
+# Support Vector Machines and other Discriminant Analysis methods
