@@ -1,2 +1,6 @@
-# ML_Boosting_methods
-Gradient boosting and adaptive boosting algorithms 
+# Boosting methods in Machine Learning
+
+## Gradient Boosting
+
+
+## Adaptive boosting or AdaBoost 
