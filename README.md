@@ -1,1 +1,2 @@
-# Support Vector Machines and other Discriminant Analysis methods
+# Support Vector Machine and other Discriminant Analysis methods
+
